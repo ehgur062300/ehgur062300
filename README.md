@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<a href="https://velog.io/@ehgur062300/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=appveyor&logoColor=#ffffff"/></a>
 <!--
 **ehgur062300/ehgur062300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
