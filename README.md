@@ -5,12 +5,12 @@
 </a>
 
 
-👋  Hi there! I'm full stack developer skilled in API, WEB, and APP.🚀
+👋  Hi there! I'm BE developer skilled in WEB.🚀
 I have experience 7 years of Android development and 2 years of iOS development.
 At present, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.
 Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)
 
-I enjoy hiking, swimming, dive and surf. ⛰ 🏄
+I enjoy tennis. 🎾
 I hope to develop every beautiful things. ✨
 
 <img src="https://github-readme-stats.vercel.app/api?username=ehgur062300&theme=tokyonight&show_icons=true" width="50%" />
