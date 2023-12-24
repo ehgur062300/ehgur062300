@@ -13,7 +13,7 @@ Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but
 I enjoy hiking, swimming, dive and surf. ⛰ 🏄
 I hope to develop every beautiful things. ✨
 
-<img src="https://github-readme-stats.vercel.app/api?username=ehgur062300&theme=tokyonight&show_icons=true" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ehgur062300&theme=tokyonight&show_icons=true" width="50%" />
 
 
 ## 🦾 Skills
