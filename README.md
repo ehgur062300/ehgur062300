@@ -1,4 +1,7 @@
-<a href="https://velog.io/@ehgur062300/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=appveyor&logoColor=#ffffff"/></a>
+<a href="https://velog.io/@ehgur062300/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://backend-repository.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-f54?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="mailto:ehgur062300@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ehgur062300@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 <!--
 **ehgur062300/ehgur062300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
