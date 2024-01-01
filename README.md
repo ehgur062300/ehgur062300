@@ -9,8 +9,7 @@
 //
 //
 
-<img src="https://github-readme-stats.vercel.app/api?username=ehgur062300&theme=tokyonight&show_icons=true" width="50%" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgur062300&exclude_repo=ehgur062300.github.io&layout=compact&theme=tokyonight"/>
 
 ## 🦾 Skills
 #### Languages
@@ -63,4 +62,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgur062300&exclude_repo=ehgur062300.github.io&layout=compact&theme=tokyonight"/>
+
