@@ -63,5 +63,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehgur062300&theme=tokyonight)](https://git.io/streak-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgur062300&exclude_repo=ehgur062300.github.io&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgur062300&exclude_repo=ehgur062300.github.io&layout=compact&theme=tokyonight"/>
