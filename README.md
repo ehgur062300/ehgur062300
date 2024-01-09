@@ -59,5 +59,4 @@
   <img src="https://img.shields.io/badge/Tistory-f54?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=backend-repository)](https://backend-repository.tistory.com/)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=backend-repository)](https://github.com/ehgur062300/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=backend-repository)](https://github.com/ehgur062300/ehgur062300/github-readme-tistory-card)
