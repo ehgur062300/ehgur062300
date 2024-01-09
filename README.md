@@ -60,4 +60,4 @@
 </a>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=backend-repository)](https://backend-repository.tistory.com/)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=backend-repository)](https://github.com/ehgur062300/tistory-readme-stats)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=backend-repository)](https://github.com/ehgur062300/github-readme-tistory-card)
