@@ -7,7 +7,10 @@ rss_feed = feedparser.parse(blog_url)
 MAX_NUM = 5
 
 latest_posts = ""
+markdown_text = """
+## ✅ Latest Blog Post
 
+"""
 for idx, entrie in enumerate(rss_feed['entries']):
   if idx > MAX_NUM:
      break;
