@@ -86,5 +86,6 @@ preREADME = """
 
 resultREADME = f"{preREADME}{markdown_text}"
 
-with open("README.md", "w", encoding='utf-8') as f :
-  f.write(resultREADME)
+f = open("README.md", mode="w", encoding="utf-8")
+f.write(resultREADME)
+f.close()
