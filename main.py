@@ -82,7 +82,7 @@ preREADME = """
 ## ✅ Latest Blog Post
 """
 
-resultREADME = f"{preREADME}{latest_posts}"
+resultREADME = f"{preREADME}{markdown_text}"
 
 with open("README.md", "w", encoding='utf-8') as f :
   f.write(resultREADME)
