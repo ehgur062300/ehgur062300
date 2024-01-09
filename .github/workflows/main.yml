@@ -31,6 +31,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser
 
+      - name: Git pull to fetch the latest changes
+        run: git pull
+
       - name: Run Update Python Script
         run: python main.py
 
