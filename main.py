@@ -1,7 +1,7 @@
 ## update_blogPost.py
 import feedparser
 
-blog_url = "https://teawon.github.io/feed.xml"
+blog_url = "https://backend-repository.tistory.com/feed.xml"
 rss_feed = feedparser.parse(blog_url)
 
 MAX_NUM = 5
