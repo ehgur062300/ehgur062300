@@ -16,7 +16,7 @@ for idx, entrie in enumerate(rss_feed['entries']):
      break;
   else:
         feed_date = entrie['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {entrie['title']}]({entrie['link']}) <br/>\n"
 
 preREADME = """
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehgur062300&count_bg=%23575554&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
