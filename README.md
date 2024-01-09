@@ -62,7 +62,6 @@
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=backend-repository)](https://backend-repository.tistory.com/)
 
-## ✅ Latest Blog Post
 
 ## ✅ Latest Blog Post
 
