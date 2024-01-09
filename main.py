@@ -12,7 +12,7 @@ for idx, entrie in enumerate(rss_feed['entries']):
   if idx > MAX_NUM:
      break;
   else:
-        feed_date = feed['published_parsed']
+        feed_date = entrie['published_parsed']
         markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
 
 preREADME = """
