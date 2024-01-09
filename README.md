@@ -11,7 +11,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgur062300&hide=css&exclude_repo=ehgur062300.github.io&layout=compact&theme=tokyonight" alt="Top Languages" width="34%" align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgur062300&hide=css&exclude_repo=ehgur062300.github.io&layout=compact&theme=tokyonight" alt="Top Languages" width="37%" align="right">
   <div align="left">
     <b>
       Java, SpringBoot, SpringDataJPA를 이용해 RestAPI를 개발합니다.
