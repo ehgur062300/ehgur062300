@@ -1,5 +1,5 @@
 ## update_blogPost.py
-import feedparser
+import feedparser, time
 
 blog_url = "https://backend-repository.tistory.com/feed"
 rss_feed = feedparser.parse(blog_url)
@@ -8,13 +8,12 @@ MAX_NUM = 5
 
 latest_posts = ""
 
-## ✅ Latest Blog Post
-
 for idx, entrie in enumerate(rss_feed['entries']):
   if idx > MAX_NUM:
      break;
-  feed_date = entrie['published_parsed']
-  latest_posts += f" - [{feed_date.tm_mon}/{feed_date.tm_mday} - {entrie['title']}]({entrie['link']})\n"
+  else:
+        feed_date = feed['published_parsed']
+        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
 
 preREADME = """
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehgur062300&count_bg=%23575554&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -79,6 +78,8 @@ preREADME = """
 </a>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=backend-repository)](https://backend-repository.tistory.com/)
+
+## ✅ Latest Blog Post
 """
 
 resultREADME = f"{preREADME}{latest_posts}"
