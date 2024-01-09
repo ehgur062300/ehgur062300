@@ -13,9 +13,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgur062300&hide=css&exclude_repo=ehgur062300.github.io&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" align="left">
   <b>
-    <p>Java, SpringBoot, SpringDataJPA를 이용해 RestAPI를 개발합니다.</p>
-    <p>ERD를 설계하고, MySQL을 사용할 수 있습니다.</p>
-    <p>JavaScript, TypeScript, HTML/CSS로 간단한 프론트엔드 개발도 가능합니다.</p>
+    Java, SpringBoot, SpringDataJPA를 이용해 RestAPI를 개발합니다.
+    ERD를 설계하고, MySQL을 사용할 수 있습니다.</p>
+    JavaScript, TypeScript, HTML/CSS로 간단한 프론트엔드 개발도 가능합니다.</p>
     <br><br>
     <p>현재 신입 백엔드 개발자로 구직중입니다.</p>
   </b>
