@@ -59,4 +59,10 @@
   <img src="https://img.shields.io/badge/Tistory-f54?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ehgur062300)](https://velog.io/@ehgur062300)[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=backend-repository)](https://backend-repository.tistory.com/)
+<a href="https://velog.io/@ehgur062300">
+  <img src="https://velog-readme-stats.vercel.app/api?name=ehgur062300" alt="Velog's GitHub stats" width="400">
+</a>
+
+<a href="https://backend-repository.tistory.com/">
+  <img src="https://github-readme-tistory-card.vercel.app/api?name=backend-repository" alt="Tistory's Card" width="400">
+</a>
