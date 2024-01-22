@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/01/22 - 연관관계 매핑](https://backend-repository.tistory.com/25) <br/>
 [2024/01/17 - STOMP 란?](https://backend-repository.tistory.com/24) <br/>
 [2024/01/12 - [실전 알고리즘] 큐](https://backend-repository.tistory.com/23) <br/>
 [2024/01/11 - [백엔드 로드맵] 입출력(IO / NIO)](https://backend-repository.tistory.com/22) <br/>
 [2024/01/10 - [실전 알고리즘] 스택](https://backend-repository.tistory.com/21) <br/>
 [2024/01/09 - Spring Data JPA란?](https://backend-repository.tistory.com/20) <br/>
-[2024/01/09 - Spring JPA란?](https://backend-repository.tistory.com/19) <br/>
