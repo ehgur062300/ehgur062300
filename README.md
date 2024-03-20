@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/Tistory-f54?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
 
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=backend-repository)](https://backend-repository.tistory.com/)
 
 
 ## ✅ Latest Blog Post
