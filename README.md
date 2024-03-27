@@ -63,9 +63,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/03/27 - JWT (JSON Web Token) 이해하기](https://backend-repository.tistory.com/32) <br/>
 [2024/03/22 - Access Token 과 Refresh Token 이 뭐고 왜 필요한가](https://backend-repository.tistory.com/31) <br/>
 [2024/03/21 - Elasticsearch에 대하여](https://backend-repository.tistory.com/30) <br/>
 [2024/03/19 - DB Soft Delete VS Hard Delete](https://backend-repository.tistory.com/29) <br/>
 [2024/03/01 - 직렬화(Serialization)란 무엇일까?](https://backend-repository.tistory.com/28) <br/>
 [2024/02/01 - REST API 상태 코드 관리](https://backend-repository.tistory.com/27) <br/>
-[2024/01/25 - HTTP 상태 코드](https://backend-repository.tistory.com/26) <br/>
