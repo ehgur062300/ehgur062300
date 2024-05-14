@@ -63,9 +63,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/05/14 - JWT 핸드북 요약 및 한글 번역](https://backend-repository.tistory.com/37) <br/>
 [2024/04/28 - ThreadLocal이란?](https://backend-repository.tistory.com/36) <br/>
 [2024/04/02 - [Apache Kafka] 카프카란 무엇인가?](https://backend-repository.tistory.com/35) <br/>
 [2024/04/02 - RDBMS와 NoSQL이란?](https://backend-repository.tistory.com/34) <br/>
 [2024/03/28 - 컴퓨터의 구성](https://backend-repository.tistory.com/33) <br/>
 [2024/03/27 - JWT (JSON Web Token) 이해하기](https://backend-repository.tistory.com/32) <br/>
-[2024/03/22 - Access Token 과 Refresh Token 이 뭐고 왜 필요한가](https://backend-repository.tistory.com/31) <br/>
