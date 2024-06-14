@@ -1,4 +1,5 @@
 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fehgur062300&count_bg=%23575554&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📞 Contact 📞
@@ -34,6 +35,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgur062300)](https://solved.ac/ehgur062300/)  
 
 ### Framework
 <div>
