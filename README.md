@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgur062300)](https://solved.ac/ehgur062300/)  
+
 ### Framework
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
@@ -59,7 +61,7 @@
 <a href="https://backend-repository.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tistory-f54?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
-
+</br>
 
 ## ✅ Latest Blog Post
 
