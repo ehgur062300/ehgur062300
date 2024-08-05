@@ -66,9 +66,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/08/05 - [AWS] S3 개념과 버킷-권한 설정 방법](https://backend-repository.tistory.com/39) <br/>
 [2024/05/16 - Spring Security + JWT 토큰을 통한 로그인 구현](https://backend-repository.tistory.com/38) <br/>
 [2024/05/14 - JWT 핸드북 요약 및 한글 번역](https://backend-repository.tistory.com/37) <br/>
 [2024/04/28 - ThreadLocal이란?](https://backend-repository.tistory.com/36) <br/>
 [2024/04/02 - [Apache Kafka] 카프카란 무엇인가?](https://backend-repository.tistory.com/35) <br/>
 [2024/04/02 - RDBMS와 NoSQL이란?](https://backend-repository.tistory.com/34) <br/>
-[2024/03/28 - 컴퓨터의 구성](https://backend-repository.tistory.com/33) <br/>
