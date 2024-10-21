@@ -66,9 +66,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/10/21 - [Git] git push 하는데 HTTP 400 error??](https://backend-repository.tistory.com/44) <br/>
 [2024/10/16 - [1주차] 커밋(Commit) 컨벤션](https://backend-repository.tistory.com/43) <br/>
 [2024/10/16 - [트러블 슈팅] JwtFilter와 Security Config의 동작 순서](https://backend-repository.tistory.com/42) <br/>
 [2024/10/13 - [트러블 슈팅] S3 HTTPS(443) 접근 문제](https://backend-repository.tistory.com/41) <br/>
 [2024/10/11 - [트러블 슈팅] ios랑 서버 연동 과정에서 401에러 발생](https://backend-repository.tistory.com/40) <br/>
 [2024/08/05 - [AWS] S3 개념과 버킷-권한 설정 방법](https://backend-repository.tistory.com/39) <br/>
-[2024/05/16 - Spring Security + JWT 토큰을 통한 로그인 구현](https://backend-repository.tistory.com/38) <br/>
