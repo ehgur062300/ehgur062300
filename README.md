@@ -66,9 +66,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/11/13 - RAID 기술에 대해서 설명해주세요.](https://backend-repository.tistory.com/51) <br/>
+[2024/11/13 - [로드맵] Pick a Language](https://backend-repository.tistory.com/50) <br/>
 [2024/11/12 - OSIV 옵션에 대해 설명해주세요.](https://backend-repository.tistory.com/49) <br/>
 [2024/11/12 - [로드맵] Internet](https://backend-repository.tistory.com/48) <br/>
 [2024/10/21 - [Git] git push 하는데 HTTP 400 error??](https://backend-repository.tistory.com/44) <br/>
 [2024/10/16 - [1주차] 커밋(Commit) 컨벤션](https://backend-repository.tistory.com/43) <br/>
-[2024/10/16 - [트러블 슈팅] JwtFilter와 Security Config의 동작 순서](https://backend-repository.tistory.com/42) <br/>
-[2024/10/13 - [트러블 슈팅] S3 HTTPS(443) 접근 문제](https://backend-repository.tistory.com/41) <br/>
