@@ -66,9 +66,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/11/15 - @AllArgsConstructor 과 record 클래스의 차이](https://backend-repository.tistory.com/57) <br/>
 [2024/11/15 - [트러블 슈팅] 요청 값 Dto에 어떻게 매핑되는가](https://backend-repository.tistory.com/56) <br/>
 [2024/11/15 - @ExceptionHandler 어노테이션은 무엇인가요?](https://backend-repository.tistory.com/55) <br/>
 [2024/11/15 - [로드맵]  Version Controller System](https://backend-repository.tistory.com/54) <br/>
 [2024/11/14 - @Value 어노테이션 사용 시 주의할 점을 설명해주세요.](https://backend-repository.tistory.com/53) <br/>
 [2024/11/14 - [로드맵] Git](https://backend-repository.tistory.com/52) <br/>
-[2024/11/13 - RAID 기술에 대해서 설명해주세요.](https://backend-repository.tistory.com/51) <br/>
