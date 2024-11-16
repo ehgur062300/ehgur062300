@@ -66,9 +66,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/11/16 - @ResponseBody(or ResponseEntity&lt;T&gt;) 가 있을 때와 없을 때의 동작 방식의 차이점을 말해주세요.](https://backend-repository.tistory.com/59) <br/>
+[2024/11/16 - [로드맵] Repo Hosting Services](https://backend-repository.tistory.com/58) <br/>
 [2024/11/15 - @AllArgsConstructor 과 record 클래스의 차이](https://backend-repository.tistory.com/57) <br/>
 [2024/11/15 - [트러블 슈팅] 요청 값 Dto에 어떻게 매핑되는가](https://backend-repository.tistory.com/56) <br/>
 [2024/11/15 - @ExceptionHandler 어노테이션은 무엇인가요?](https://backend-repository.tistory.com/55) <br/>
 [2024/11/15 - [로드맵]  Version Controller System](https://backend-repository.tistory.com/54) <br/>
-[2024/11/14 - @Value 어노테이션 사용 시 주의할 점을 설명해주세요.](https://backend-repository.tistory.com/53) <br/>
-[2024/11/14 - [로드맵] Git](https://backend-repository.tistory.com/52) <br/>
