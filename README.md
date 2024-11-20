@@ -66,9 +66,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/11/20 - JPA의 N + 1 문제에 대해서 설명해주세요.](https://backend-repository.tistory.com/67) <br/>
+[2024/11/20 - [로드맵] Learn about APIs](https://backend-repository.tistory.com/66) <br/>
 [2024/11/19 - 엔티티 매니저에 대해 설명해주세요.](https://backend-repository.tistory.com/65) <br/>
 [2024/11/19 - [로드맵] RDB](https://backend-repository.tistory.com/64) <br/>
 [2024/11/18 - JPA의 ddl-auto 옵션은 각각 어떤 동작을 하고 어떤 상황에서 사용해야 할까요?](https://backend-repository.tistory.com/63) <br/>
 [2024/11/18 - [로드맵] Relational Database](https://backend-repository.tistory.com/62) <br/>
-[2024/11/17 - Spring Data Jpa에서 새로운 Entity인지 판단하는 방법은 무엇일까요?](https://backend-repository.tistory.com/61) <br/>
-[2024/11/17 - [로드맵] GitHub / GitLab / Bitbucket](https://backend-repository.tistory.com/60) <br/>
