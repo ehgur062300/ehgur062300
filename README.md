@@ -66,9 +66,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/11/21 - 자바에서 Checked Exception과 Unchecked Exception에 대해서 설명해주세요.](https://backend-repository.tistory.com/69) <br/>
+[2024/11/21 - [로드맵] API 접근 방식](https://backend-repository.tistory.com/68) <br/>
 [2024/11/20 - JPA의 N + 1 문제에 대해서 설명해주세요.](https://backend-repository.tistory.com/67) <br/>
 [2024/11/20 - [로드맵] Learn about APIs](https://backend-repository.tistory.com/66) <br/>
 [2024/11/19 - 엔티티 매니저에 대해 설명해주세요.](https://backend-repository.tistory.com/65) <br/>
 [2024/11/19 - [로드맵] RDB](https://backend-repository.tistory.com/64) <br/>
-[2024/11/18 - JPA의 ddl-auto 옵션은 각각 어떤 동작을 하고 어떤 상황에서 사용해야 할까요?](https://backend-repository.tistory.com/63) <br/>
-[2024/11/18 - [로드맵] Relational Database](https://backend-repository.tistory.com/62) <br/>
