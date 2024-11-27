@@ -66,9 +66,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/11/27 - 얕은 복사와 깊은 복사에 대해서 설명해주세요.](https://backend-repository.tistory.com/79) <br/>
+[2024/11/27 - [로드맵] CDN](https://backend-repository.tistory.com/78) <br/>
 [2024/11/26 - 트랜잭션 격리수준은 무엇인가요?](https://backend-repository.tistory.com/77) <br/>
 [2024/11/26 - [로드맵] Client Side](https://backend-repository.tistory.com/76) <br/>
 [2024/11/25 - 데이터베이스 인덱스에 대해서 설명해주세요.](https://backend-repository.tistory.com/75) <br/>
 [2024/11/25 - [로드맵] Caching](https://backend-repository.tistory.com/74) <br/>
-[2024/11/24 - [로드맵] API 설계 원칙](https://backend-repository.tistory.com/72) <br/>
-[2024/11/23 - [로드맵] 인증 및 권한 부여 메커니즘](https://backend-repository.tistory.com/71) <br/>
