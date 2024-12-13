@@ -66,9 +66,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/12/13 - 백준 1260번: 그래프 탐색 (DFS와 BFS)](https://backend-repository.tistory.com/84) <br/>
 [2024/11/29 - JPA에서 ID 생성 전략에 대해 설명해주세요.](https://backend-repository.tistory.com/83) <br/>
 [2024/11/29 - [로드맵] Redis](https://backend-repository.tistory.com/82) <br/>
 [2024/11/28 - 로그와 메트릭을 설명해주세요.](https://backend-repository.tistory.com/81) <br/>
 [2024/11/28 - [로드맵] Server Side](https://backend-repository.tistory.com/80) <br/>
 [2024/11/27 - 얕은 복사와 깊은 복사에 대해서 설명해주세요.](https://backend-repository.tistory.com/79) <br/>
-[2024/11/27 - [로드맵] CDN](https://backend-repository.tistory.com/78) <br/>
