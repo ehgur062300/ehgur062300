@@ -66,9 +66,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/12/18 - @Component, @Controller, @Service, @Repository의 차이에 대해서 설명해주세요.](https://backend-repository.tistory.com/89) <br/>
 [2024/12/17 - 동일성과 동등성에 대해서 설명해주세요.](https://backend-repository.tistory.com/88) <br/>
 [2024/12/17 - [로드맵] Web Security](https://backend-repository.tistory.com/87) <br/>
 [2024/12/16 - equals와 hashCode는 왜 함께 재정의해야 할까요?](https://backend-repository.tistory.com/86) <br/>
 [2024/12/16 - [로드맵] Memcached](https://backend-repository.tistory.com/85) <br/>
 [2024/12/13 - 백준 1260번: 그래프 탐색 (DFS와 BFS)](https://backend-repository.tistory.com/84) <br/>
-[2024/11/29 - JPA에서 ID 생성 전략에 대해 설명해주세요.](https://backend-repository.tistory.com/83) <br/>
