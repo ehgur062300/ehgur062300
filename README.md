@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/12/31 - 공유 락과 배타 락에 대해서 설명해주세요.](https://backend-repository.tistory.com/97) <br/>
+[2024/12/31 - [로드맵] 기능 테스트](https://backend-repository.tistory.com/96) <br/>
+[2024/12/31 - [로드맵] 단위 테스트](https://backend-repository.tistory.com/95) <br/>
 [2024/12/27 - 동기와 비동기의 차이점은 무엇인가요?](https://backend-repository.tistory.com/94) <br/>
 [2024/12/27 - [로드맵] 통합 테스트](https://backend-repository.tistory.com/93) <br/>
 [2024/12/22 - TCP 3-way handshake에 대해서 설명해주세요.](https://backend-repository.tistory.com/92) <br/>
-[2024/12/19 - 동기 방식으로 외부 서비스를 호출할 때 외부 서비스 장애가 나면 어떻게 조치할 수 있나요?](https://backend-repository.tistory.com/91) <br/>
-[2024/12/19 - [로드맵] Testing](https://backend-repository.tistory.com/90) <br/>
-[2024/12/18 - @Component, @Controller, @Service, @Repository의 차이에 대해서 설명해주세요.](https://backend-repository.tistory.com/89) <br/>
