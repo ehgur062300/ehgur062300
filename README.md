@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/01/07 - [백준] 숫자 카드 - 10815](https://backend-repository.tistory.com/103) <br/>
+[2025/01/07 - 스레드, 프로세스, 코어의 수는 많을 수록 좋을까요?](https://backend-repository.tistory.com/102) <br/>
+[2025/01/07 - [트러블 슈팅] 회원 상세 조회 문제 발생(2025.01.06)](https://backend-repository.tistory.com/101) <br/>
 [2025/01/03 - [트러블 슈팅] redis 관련 문제 발생(2025.01.03)](https://backend-repository.tistory.com/100) <br/>
 [2025/01/02 - 단위 테스트와 통합 테스트의 차이점은 무엇인가요?](https://backend-repository.tistory.com/99) <br/>
 [2025/01/02 - [로드맵] CI/CD](https://backend-repository.tistory.com/98) <br/>
-[2024/12/31 - 공유 락과 배타 락에 대해서 설명해주세요.](https://backend-repository.tistory.com/97) <br/>
-[2024/12/31 - [로드맵] 기능 테스트](https://backend-repository.tistory.com/96) <br/>
-[2024/12/31 - [로드맵] 단위 테스트](https://backend-repository.tistory.com/95) <br/>
