@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/01/10 - [백준] 퇴사 - 14501](https://backend-repository.tistory.com/110) <br/>
 [2025/01/10 - HTTP 메서드에서 멱등성이란 무엇인가요?](https://backend-repository.tistory.com/109) <br/>
 [2025/01/09 - [트러블슈팅] 랜덤 Pagination 너무 쉽게 봤다.](https://backend-repository.tistory.com/108) <br/>
 [2025/01/09 - [백준] N과 M (4) - 15652](https://backend-repository.tistory.com/107) <br/>
 [2025/01/09 - 사용자가 웹사이트에 처음 접근했을 때 발생하는 일련의 과정에 대해 설명해 주세요.](https://backend-repository.tistory.com/106) <br/>
 [2025/01/08 - [백준] 큐2 - 18258](https://backend-repository.tistory.com/105) <br/>
-[2025/01/08 - 데이터베이스 커넥션 풀(Connection Pool)을 사용하지 않으면 어떤 문제가 발생할 수 있나요?](https://backend-repository.tistory.com/104) <br/>
