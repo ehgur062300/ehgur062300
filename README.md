@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/01/13 - [트러블 슈팅] 알림 내역 조회 문제](https://backend-repository.tistory.com/112) <br/>
 [2025/01/12 - 데이터베이스 시스템에서 동시성을 제어하는 방법에 대해 설명해주세요.](https://backend-repository.tistory.com/111) <br/>
 [2025/01/10 - [백준] 퇴사 - 14501](https://backend-repository.tistory.com/110) <br/>
 [2025/01/10 - HTTP 메서드에서 멱등성이란 무엇인가요?](https://backend-repository.tistory.com/109) <br/>
 [2025/01/09 - [트러블슈팅] 랜덤 Pagination 너무 쉽게 봤다.](https://backend-repository.tistory.com/108) <br/>
 [2025/01/09 - [백준] N과 M (4) - 15652](https://backend-repository.tistory.com/107) <br/>
-[2025/01/09 - 사용자가 웹사이트에 처음 접근했을 때 발생하는 일련의 과정에 대해 설명해 주세요.](https://backend-repository.tistory.com/106) <br/>
