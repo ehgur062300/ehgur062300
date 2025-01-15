@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/01/15 - CORS란 무엇인가요?](https://backend-repository.tistory.com/114) <br/>
 [2025/01/14 - 갭락(Gap Lock)과 넥스트키 락(Next-Key Lock)이란 무엇이며, 어떻게 Phantom Read를 방지하나요?](https://backend-repository.tistory.com/113) <br/>
 [2025/01/13 - [트러블 슈팅] 알림 내역 조회 문제](https://backend-repository.tistory.com/112) <br/>
 [2025/01/12 - 데이터베이스 시스템에서 동시성을 제어하는 방법에 대해 설명해주세요.](https://backend-repository.tistory.com/111) <br/>
 [2025/01/10 - [백준] 퇴사 - 14501](https://backend-repository.tistory.com/110) <br/>
 [2025/01/10 - HTTP 메서드에서 멱등성이란 무엇인가요?](https://backend-repository.tistory.com/109) <br/>
-[2025/01/09 - [트러블슈팅] 랜덤 Pagination 너무 쉽게 봤다.](https://backend-repository.tistory.com/108) <br/>
