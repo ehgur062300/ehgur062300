@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/01/20 - private 메서드에 @Transactional 선언하면 트랜잭션이 동작할까요?](https://backend-repository.tistory.com/117) <br/>
 [2025/01/17 - 리버스 프록시와 포워드 프록시의 차이점에 대해 설명해주세요.](https://backend-repository.tistory.com/116) <br/>
 [2025/01/15 - 뱃지 시스템 적용](https://backend-repository.tistory.com/115) <br/>
 [2025/01/15 - CORS란 무엇인가요?](https://backend-repository.tistory.com/114) <br/>
 [2025/01/14 - 갭락(Gap Lock)과 넥스트키 락(Next-Key Lock)이란 무엇이며, 어떻게 Phantom Read를 방지하나요?](https://backend-repository.tistory.com/113) <br/>
 [2025/01/13 - [트러블 슈팅] 알림 내역 조회 문제](https://backend-repository.tistory.com/112) <br/>
-[2025/01/12 - 데이터베이스 시스템에서 동시성을 제어하는 방법에 대해 설명해주세요.](https://backend-repository.tistory.com/111) <br/>
