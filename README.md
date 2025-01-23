@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/01/23 - 자료구조 스택에 대해서 설명해주세요.](https://backend-repository.tistory.com/122) <br/>
 [2025/01/22 - [소프티어] GPT식 숫자 비교](https://backend-repository.tistory.com/121) <br/>
 [2025/01/22 - 서버 사이드 렌더링과 클라이언트 사이드 렌더링의 차이점은 무엇인가요?](https://backend-repository.tistory.com/120) <br/>
 [2025/01/22 - [트러블 슈팅] 배포 서버 CI 자동화 적용 이후 오류 발생](https://backend-repository.tistory.com/119) <br/>
 [2025/01/21 - Connection Timeout, Socket Timeout, Read Timeout의 차이점은 무엇인가요?](https://backend-repository.tistory.com/118) <br/>
 [2025/01/20 - private 메서드에 @Transactional 선언하면 트랜잭션이 동작할까요?](https://backend-repository.tistory.com/117) <br/>
-[2025/01/17 - 리버스 프록시와 포워드 프록시의 차이점에 대해 설명해주세요.](https://backend-repository.tistory.com/116) <br/>
