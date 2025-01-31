@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/01/31 - HTTPS에 대해서 설명해주세요.](https://backend-repository.tistory.com/126) <br/>
 [2025/01/24 - WAS와 웹 서버의 차이점은 무엇인가요?](https://backend-repository.tistory.com/125) <br/>
 [2025/01/24 - [소프티어] 징검다리](https://backend-repository.tistory.com/124) <br/>
 [2025/01/23 - [소프티어] 성적평균](https://backend-repository.tistory.com/123) <br/>
 [2025/01/23 - 자료구조 스택에 대해서 설명해주세요.](https://backend-repository.tistory.com/122) <br/>
 [2025/01/22 - [소프티어] GPT식 숫자 비교](https://backend-repository.tistory.com/121) <br/>
-[2025/01/22 - 서버 사이드 렌더링과 클라이언트 사이드 렌더링의 차이점은 무엇인가요?](https://backend-repository.tistory.com/120) <br/>
