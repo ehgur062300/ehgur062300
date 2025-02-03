@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/02/03 - [트러블 슈팅] 갑자기 사라진 Redis](https://backend-repository.tistory.com/129) <br/>
+[2025/02/03 - Record를 DTO로 사용하는 이유가 뭔가요?](https://backend-repository.tistory.com/128) <br/>
 [2025/02/02 - [트러블 슈팅] FCM 오류 해결(2024.11.29)](https://backend-repository.tistory.com/127) <br/>
 [2025/01/31 - HTTPS에 대해서 설명해주세요.](https://backend-repository.tistory.com/126) <br/>
 [2025/01/24 - WAS와 웹 서버의 차이점은 무엇인가요?](https://backend-repository.tistory.com/125) <br/>
 [2025/01/24 - [소프티어] 징검다리](https://backend-repository.tistory.com/124) <br/>
-[2025/01/23 - [소프티어] 성적평균](https://backend-repository.tistory.com/123) <br/>
-[2025/01/23 - 자료구조 스택에 대해서 설명해주세요.](https://backend-repository.tistory.com/122) <br/>
