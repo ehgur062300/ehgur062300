@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/02/05 - [소프티어] 택배 마스터 광우](https://backend-repository.tistory.com/133) <br/>
+[2025/02/05 - SOLID 원칙에 대해서 설명해 주세요.](https://backend-repository.tistory.com/132) <br/>
 [2025/02/04 - DB Replication에 대해서 설명해주세요.](https://backend-repository.tistory.com/131) <br/>
 [2025/02/03 - [소프티어] 출퇴근길](https://backend-repository.tistory.com/130) <br/>
 [2025/02/03 - [트러블 슈팅] 갑자기 사라진 Redis](https://backend-repository.tistory.com/129) <br/>
 [2025/02/03 - Record를 DTO로 사용하는 이유가 뭔가요?](https://backend-repository.tistory.com/128) <br/>
-[2025/02/02 - [트러블 슈팅] FCM 오류 해결(2024.11.29)](https://backend-repository.tistory.com/127) <br/>
-[2025/01/31 - HTTPS에 대해서 설명해주세요.](https://backend-repository.tistory.com/126) <br/>
