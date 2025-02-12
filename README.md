@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/02/12 - 로드 밸런싱에 대해서 설명해주세요.](https://backend-repository.tistory.com/138) <br/>
 [2025/02/11 - 트랜잭션(Transaction) 분리하기](https://backend-repository.tistory.com/137) <br/>
 [2025/02/09 - [백준] 쉬운 최단거리](https://backend-repository.tistory.com/136) <br/>
 [2025/02/06 - [소프티어] 나무조경](https://backend-repository.tistory.com/135) <br/>
 [2025/02/06 - 다중 서버 환경에서 세션 기반 인증 방식을 사용하는 경우 발생할 수 있는 문제점은 무엇인가요?](https://backend-repository.tistory.com/134) <br/>
 [2025/02/05 - [소프티어] 택배 마스터 광우](https://backend-repository.tistory.com/133) <br/>
-[2025/02/05 - SOLID 원칙에 대해서 설명해 주세요.](https://backend-repository.tistory.com/132) <br/>
