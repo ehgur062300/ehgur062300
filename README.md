@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/02/21 - 스케일 아웃과 스케일 업의 차이점을 설명해주세요.](https://backend-repository.tistory.com/144) <br/>
 [2025/02/20 - ACID에 대해서 설명해주세요.](https://backend-repository.tistory.com/143) <br/>
 [2025/02/19 - [기능추가] 댓글](https://backend-repository.tistory.com/142) <br/>
 [2025/02/19 - REST란 무엇인가요?](https://backend-repository.tistory.com/141) <br/>
 [2025/02/17 - 캐싱 전략에 대해서 설명해주세요.](https://backend-repository.tistory.com/140) <br/>
 [2025/02/13 - 동시성과 병렬성에 대해서 설명해주세요.](https://backend-repository.tistory.com/139) <br/>
-[2025/02/12 - 로드 밸런싱에 대해서 설명해주세요.](https://backend-repository.tistory.com/138) <br/>
