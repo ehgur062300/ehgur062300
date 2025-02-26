@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/02/26 - 관계형 데이터베이스와 비 관계형 데이터베이스의 차이점은 무엇인가요?](https://backend-repository.tistory.com/150) <br/>
 [2025/02/25 - HTTP/1.1과 HTTP/2.0에 대해서 설명해주세요.](https://backend-repository.tistory.com/149) <br/>
 [2025/02/24 - 프로세스보다 스레드의 컨텍스트 스위칭이 더 빠른 이유는 무엇인가요?](https://backend-repository.tistory.com/148) <br/>
 [2025/02/24 - K6로 토큰 인증 절차가 필요한 API 테스트 하기](https://backend-repository.tistory.com/147) <br/>
 [2025/02/24 - 성능테스트를 위한 K6 사용법](https://backend-repository.tistory.com/146) <br/>
 [2025/02/21 - [feature] 댓글 공개 여부 기능 추가(1)](https://backend-repository.tistory.com/145) <br/>
-[2025/02/21 - 스케일 아웃과 스케일 업의 차이점을 설명해주세요.](https://backend-repository.tistory.com/144) <br/>
