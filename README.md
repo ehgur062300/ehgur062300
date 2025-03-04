@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/03/04 - 시스템 간 비동기 연동 방식에는 무엇이 있나요?](https://backend-repository.tistory.com/152) <br/>
 [2025/03/03 - 캐시 스탬피드 현상에 대하여 설명해주세요.](https://backend-repository.tistory.com/151) <br/>
 [2025/02/26 - 관계형 데이터베이스와 비 관계형 데이터베이스의 차이점은 무엇인가요?](https://backend-repository.tistory.com/150) <br/>
 [2025/02/25 - HTTP/1.1과 HTTP/2.0에 대해서 설명해주세요.](https://backend-repository.tistory.com/149) <br/>
 [2025/02/24 - 프로세스보다 스레드의 컨텍스트 스위칭이 더 빠른 이유는 무엇인가요?](https://backend-repository.tistory.com/148) <br/>
 [2025/02/24 - K6로 토큰 인증 절차가 필요한 API 테스트 하기](https://backend-repository.tistory.com/147) <br/>
-[2025/02/24 - 성능테스트를 위한 K6 사용법](https://backend-repository.tistory.com/146) <br/>
