@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/03/07 - 연관관계 설정은 필수일까?](https://backend-repository.tistory.com/155) <br/>
 [2025/03/06 - JPA 에서의 연관관계](https://backend-repository.tistory.com/154) <br/>
 [2025/03/05 - CAP 정리에 대해서 알고 계신가요?](https://backend-repository.tistory.com/153) <br/>
 [2025/03/04 - 시스템 간 비동기 연동 방식에는 무엇이 있나요?](https://backend-repository.tistory.com/152) <br/>
 [2025/03/03 - 캐시 스탬피드 현상에 대하여 설명해주세요.](https://backend-repository.tistory.com/151) <br/>
 [2025/02/26 - 관계형 데이터베이스와 비 관계형 데이터베이스의 차이점은 무엇인가요?](https://backend-repository.tistory.com/150) <br/>
-[2025/02/25 - HTTP/1.1과 HTTP/2.0에 대해서 설명해주세요.](https://backend-repository.tistory.com/149) <br/>
