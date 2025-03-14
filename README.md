@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/03/14 - 배포된 데이터베이스의 스키마를 변경해보자(2)](https://backend-repository.tistory.com/158) <br/>
 [2025/03/11 - 배포된 데이터베이스의 스키마를 변경해보자(1)](https://backend-repository.tistory.com/157) <br/>
 [2025/03/11 - 응집도와 결합도에 대해서 설명해주세요.](https://backend-repository.tistory.com/156) <br/>
 [2025/03/07 - 연관관계 설정은 필수일까?](https://backend-repository.tistory.com/155) <br/>
 [2025/03/06 - JPA 에서의 연관관계](https://backend-repository.tistory.com/154) <br/>
 [2025/03/05 - CAP 정리에 대해서 알고 계신가요?](https://backend-repository.tistory.com/153) <br/>
-[2025/03/04 - 시스템 간 비동기 연동 방식에는 무엇이 있나요?](https://backend-repository.tistory.com/152) <br/>
