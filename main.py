@@ -46,7 +46,7 @@ preREADME = """
 <br>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgur062300&hide=css,HTML&exclude_repo=ehgur062300.github.io&layout=compact&theme=tokyonight" alt="Top Languages" width="33%" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehgur062300&hide=css,HTML&exclude_repo=ehgur062300.github.io&layout=compact&theme=tokyonight" alt="Top Languages" width="33%">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgur062300)](https://solved.ac/ehgur062300/)  
 
