@@ -20,6 +20,8 @@ for idx, entrie in enumerate(rss_feed['entries']):
 
 preREADME = """
 
+
+
 ## 📞 Contact 📞
 <div>
   <a href="mailto:ehgur062300@gmail.com" target="_blank">
@@ -51,26 +53,13 @@ preREADME = """
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgur062300)](https://solved.ac/ehgur062300/)  
 
 ## 🦾 Skills
-### Languages
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-</div>
+| **🌐Languages** | **🖥️Backend**     | **💾Databases** | **☁️Cloud & DevOps** | **🛠️Tools & Others** |
+|-----------------|-------------------|-----------------|-----------------------|-----------------------|
+| <p align="center"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"></p>          | <p align="center"><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"></p> | <p align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></p>         | <p align="center"><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"></p> | <p align="center"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></p> |
+|                 | <p align="center"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"></p> | <p align="center"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"></p>         | <p align="center"><img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white"></p> |                       |
+|                 |                   |                 | <p align="center"><img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white"></p> |                       |
+|                 |                   |                 | <p align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></p> |                       |
 
-### Framework
-<div>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white">
-</div>
-
-### Tools
-<div>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</div>
 
 ## 💻 DEV's Blog 💻
 <a href="https://autoreview.kr/"><img src="https://img.shields.io/badge/AutoReview-FFA500?style=flat-square"></a>
