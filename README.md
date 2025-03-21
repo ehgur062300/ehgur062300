@@ -50,9 +50,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/03/21 - [트러블 슈팅] 2개 이상의 데이터베이스 초기화 기능은 사용하지 말자](https://backend-repository.tistory.com/160) <br/>
 [2025/03/20 - Flyway_Schema_History 테이블 자동 복구하기](https://backend-repository.tistory.com/159) <br/>
 [2025/03/14 - 배포된 데이터베이스의 스키마를 변경해보자(2)](https://backend-repository.tistory.com/158) <br/>
 [2025/03/11 - 배포된 데이터베이스의 스키마를 변경해보자(1)](https://backend-repository.tistory.com/157) <br/>
 [2025/03/11 - 응집도와 결합도에 대해서 설명해주세요.](https://backend-repository.tistory.com/156) <br/>
 [2025/03/07 - 연관관계 설정은 필수일까?](https://backend-repository.tistory.com/155) <br/>
-[2025/03/06 - JPA 에서의 연관관계](https://backend-repository.tistory.com/154) <br/>
