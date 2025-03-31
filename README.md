@@ -50,9 +50,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/03/31 - [트러블 슈팅] 개발 서버와 배포 서버 사이에 DB 불일치 해결](https://backend-repository.tistory.com/164) <br/>
 [2025/03/28 - Redis가 싱글 스레드로 만들어진 이유를 설명해주세요.](https://backend-repository.tistory.com/163) <br/>
 [2025/03/27 - JWT 특징과 주의 사항을 설명해주세요.](https://backend-repository.tistory.com/162) <br/>
 [2025/03/24 - Join 연산 무조건 피해야 하나?](https://backend-repository.tistory.com/161) <br/>
 [2025/03/21 - [트러블 슈팅] 2개 이상의 데이터베이스 초기화 기능은 사용하지 말자](https://backend-repository.tistory.com/160) <br/>
 [2025/03/20 - Flyway_Schema_History 테이블 자동 복구하기](https://backend-repository.tistory.com/159) <br/>
-[2025/03/14 - 배포된 데이터베이스의 스키마를 변경해보자(2)](https://backend-repository.tistory.com/158) <br/>
