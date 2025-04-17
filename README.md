@@ -50,9 +50,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/04/17 - 방어적 복사에 대해서 설명해주세요.](https://backend-repository.tistory.com/168) <br/>
 [2025/04/16 - Call By Value와 Call By Reference에 대해서 설명해주세요.](https://backend-repository.tistory.com/167) <br/>
 [2025/04/09 - 자바 프로그램이 실행되는 흐름을 설명해 주세요.](https://backend-repository.tistory.com/166) <br/>
 [2025/04/01 - 교착 상태에 대해서 설명해주세요.](https://backend-repository.tistory.com/165) <br/>
 [2025/03/31 - [트러블 슈팅] 개발 서버와 배포 서버 사이에 DB 불일치 해결](https://backend-repository.tistory.com/164) <br/>
 [2025/03/28 - Redis가 싱글 스레드로 만들어진 이유를 설명해주세요.](https://backend-repository.tistory.com/163) <br/>
-[2025/03/27 - JWT 특징과 주의 사항을 설명해주세요.](https://backend-repository.tistory.com/162) <br/>
