@@ -50,9 +50,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/04/23 - Elasticsearch란?](https://backend-repository.tistory.com/172) <br/>
 [2025/04/22 - 검색 쿼리 개선 (LIKE -&gt; FullTextSearch -&gt; Elasticsearch)](https://backend-repository.tistory.com/171) <br/>
 [2025/04/22 - Full-Text Search 사용법](https://backend-repository.tistory.com/170) <br/>
 [2025/04/21 - [MySQL] LIKE 문의 동작 방식과 Index와의 관계](https://backend-repository.tistory.com/169) <br/>
 [2025/04/17 - 방어적 복사에 대해서 설명해주세요.](https://backend-repository.tistory.com/168) <br/>
 [2025/04/16 - Call By Value와 Call By Reference에 대해서 설명해주세요.](https://backend-repository.tistory.com/167) <br/>
-[2025/04/09 - 자바 프로그램이 실행되는 흐름을 설명해 주세요.](https://backend-repository.tistory.com/166) <br/>
