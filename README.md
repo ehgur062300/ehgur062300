@@ -51,7 +51,7 @@
 ## ✅ Latest Blog Post
 
 [2025/04/23 - Elasticsearch란?](https://backend-repository.tistory.com/172) <br/>
-[2025/04/22 - 검색 쿼리 개선 (LIKE -&gt; FullTextSearch -&gt; Elasticsearch)](https://backend-repository.tistory.com/171) <br/>
+[2025/04/22 - 검색 쿼리 개선 (LIKE -&gt; Full Text Search)](https://backend-repository.tistory.com/171) <br/>
 [2025/04/22 - Full-Text Search 사용법](https://backend-repository.tistory.com/170) <br/>
 [2025/04/21 - [MySQL] LIKE 문의 동작 방식과 Index와의 관계](https://backend-repository.tistory.com/169) <br/>
 [2025/04/17 - 방어적 복사에 대해서 설명해주세요.](https://backend-repository.tistory.com/168) <br/>
