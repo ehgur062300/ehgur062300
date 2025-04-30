@@ -51,7 +51,7 @@
 ## ✅ Latest Blog Post
 
 [2025/04/29 - [트러블 슈팅] Nginx 502 Bad Gateway 에러 발생](https://backend-repository.tistory.com/174) <br/>
-[2025/04/28 - JPA Fetch Join과 페이징을 함께 사용할 때 주의점해](https://backend-repository.tistory.com/173) <br/>
+[2025/04/28 - JPA Fetch Join과 페이징을 함께 사용할 때 주의점](https://backend-repository.tistory.com/173) <br/>
 [2025/04/23 - Elasticsearch란?](https://backend-repository.tistory.com/172) <br/>
 [2025/04/22 - 검색 쿼리 개선 (LIKE -&gt; Full Text Search)](https://backend-repository.tistory.com/171) <br/>
 [2025/04/22 - Full-Text Search 사용법](https://backend-repository.tistory.com/170) <br/>
