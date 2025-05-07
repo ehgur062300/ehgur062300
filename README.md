@@ -50,9 +50,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/05/07 - 테스트 격리란 무엇인가요?](https://backend-repository.tistory.com/178) <br/>
 [2025/05/06 - ThreadLocal에 대해 설명해 주세요.](https://backend-repository.tistory.com/177) <br/>
 [2025/05/04 - JVM에서 GC 대상 객체를 판단하는 기준은 무엇인가요?](https://backend-repository.tistory.com/176) <br/>
 [2025/05/02 - 어떤 예외가 발생하면 트랜잭션을 롤백하나요?](https://backend-repository.tistory.com/175) <br/>
 [2025/04/29 - [트러블 슈팅] Nginx 502 Bad Gateway 에러 발생](https://backend-repository.tistory.com/174) <br/>
 [2025/04/28 - JPA Fetch Join과 페이징을 함께 사용할 때 주의점](https://backend-repository.tistory.com/173) <br/>
-[2025/04/23 - Elasticsearch란?](https://backend-repository.tistory.com/172) <br/>
