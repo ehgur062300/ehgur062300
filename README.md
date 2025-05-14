@@ -50,9 +50,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/05/14 - GitHub 연동 기능 구현기](https://backend-repository.tistory.com/182) <br/>
 [2025/05/12 - NOT IN 쿼리를 사용할 때 발생할 수 있는 문제와 최적화 방법에 대해 설명해 주세요.](https://backend-repository.tistory.com/181) <br/>
 [2025/05/09 - Code Post에 북마크 기능 추가](https://backend-repository.tistory.com/180) <br/>
 [2025/05/08 - 게시글 공개 여부 기능 추가](https://backend-repository.tistory.com/179) <br/>
 [2025/05/07 - 테스트 격리란 무엇인가요?](https://backend-repository.tistory.com/178) <br/>
 [2025/05/06 - ThreadLocal에 대해 설명해 주세요.](https://backend-repository.tistory.com/177) <br/>
-[2025/05/04 - JVM에서 GC 대상 객체를 판단하는 기준은 무엇인가요?](https://backend-repository.tistory.com/176) <br/>
