@@ -50,7 +50,7 @@
 
 ## ✅ Latest Blog Post
 
-[2025/05/21 - 계좌 입출금 시스템 만들어 보기](https://backend-repository.tistory.com/186) <br/>
+[2025/05/21 - 프로젝트 과제 예제: &ldquo;은행 계좌 관리 시스템&rdquo;](https://backend-repository.tistory.com/186) <br/>
 [2025/05/19 - RDB에서 페이징 쿼리의 필요성을 설명해 주세요.](https://backend-repository.tistory.com/185) <br/>
 [2025/05/16 - Spring Boot 프로젝트에서 Github REST API로 Push 기능 구현하기](https://backend-repository.tistory.com/184) <br/>
 [2025/05/16 - Spring에서 객체를 Bean으로 관리하는 이유를 설명해주세요.](https://backend-repository.tistory.com/183) <br/>
