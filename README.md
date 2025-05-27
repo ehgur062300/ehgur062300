@@ -50,9 +50,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/05/27 - 단순 CRUD를 넘어 진짜 백엔드로 가는 길](https://backend-repository.tistory.com/190) <br/>
 [2025/05/26 - 어떤 이유로 코루틴을 사용한 작업 처리가 기존 스레드 방식보다 가벼운지 설명해주세요.](https://backend-repository.tistory.com/189) <br/>
 [2025/05/23 - Java 동시성 제어와 테스트 로드맵 요약](https://backend-repository.tistory.com/188) <br/>
 [2025/05/23 - Java에서 ReentrantLock을 활용한 동시 입금 제어 및 실패 테스트 정리](https://backend-repository.tistory.com/187) <br/>
 [2025/05/21 - 프로젝트 과제 예제: &ldquo;은행 계좌 관리 시스템&rdquo;](https://backend-repository.tistory.com/186) <br/>
 [2025/05/19 - RDB에서 페이징 쿼리의 필요성을 설명해 주세요.](https://backend-repository.tistory.com/185) <br/>
-[2025/05/16 - Spring Boot 프로젝트에서 Github REST API로 Push 기능 구현하기](https://backend-repository.tistory.com/184) <br/>
