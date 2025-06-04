@@ -50,9 +50,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/06/04 - Spring MVC의 실행 흐름에 대해 설명해주세요.](https://backend-repository.tistory.com/193) <br/>
 [2025/06/01 - saveOrUpdate 구현 시 동시성 이슈](https://backend-repository.tistory.com/192) <br/>
 [2025/05/27 - 초당 수천 건의 결제를 처리하는 API 만들기](https://backend-repository.tistory.com/191) <br/>
 [2025/05/27 - 단순 CRUD를 넘어 진짜 백엔드로 가는 길](https://backend-repository.tistory.com/190) <br/>
 [2025/05/26 - 어떤 이유로 코루틴을 사용한 작업 처리가 기존 스레드 방식보다 가벼운지 설명해주세요.](https://backend-repository.tistory.com/189) <br/>
 [2025/05/23 - Java 동시성 제어와 테스트 로드맵 요약](https://backend-repository.tistory.com/188) <br/>
-[2025/05/23 - Java에서 ReentrantLock을 활용한 동시 입금 제어 및 실패 테스트 정리](https://backend-repository.tistory.com/187) <br/>
