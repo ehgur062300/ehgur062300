@@ -50,9 +50,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/06/20 - 복합키 vs (대칭키 + UNIQUE 제약 조건) 회의록](https://backend-repository.tistory.com/196) <br/>
 [2025/06/17 - Spring Data JPA에서 새로운 Entity인지 판단하는 방법은 무엇일까요?](https://backend-repository.tistory.com/195) <br/>
 [2025/06/12 - Filter와 Interceptor의 차이점을 말해주세요.](https://backend-repository.tistory.com/194) <br/>
 [2025/06/04 - Spring MVC의 실행 흐름에 대해 설명해주세요.](https://backend-repository.tistory.com/193) <br/>
 [2025/06/01 - saveOrUpdate 구현 시 동시성 이슈](https://backend-repository.tistory.com/192) <br/>
 [2025/05/27 - 초당 수천 건의 결제를 처리하는 API 만들기](https://backend-repository.tistory.com/191) <br/>
-[2025/05/27 - 단순 CRUD를 넘어 진짜 백엔드로 가는 길](https://backend-repository.tistory.com/190) <br/>
