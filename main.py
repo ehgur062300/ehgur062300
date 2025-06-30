@@ -24,7 +24,7 @@ preREADME = """
 
 ## 📞 Contact 📞
 <div>
-  <a href="mailto:ehgur062300@gmail.com" target="_blank">
+  <a href="mailto:dohyuk.choe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/ehgur062300@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=black"/>
   </a>
   <a href="https://open.kakao.com/o/sRzRHFZf" target="_blank">
