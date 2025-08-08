@@ -50,9 +50,9 @@
 
 ## ✅ Latest Blog Post
 
+[2025/08/08 - 동시성과 병렬성에 대해서 설명해주세요.](https://backend-repository.tistory.com/199) <br/>
 [2025/08/06 - 로드 밸런싱에 대해서 설명해주세요](https://backend-repository.tistory.com/198) <br/>
 [2025/06/29 - 트랜잭션 격리수준은 무엇인가요?](https://backend-repository.tistory.com/197) <br/>
 [2025/06/20 - 복합키 vs (대칭키 + UNIQUE 제약 조건) 회의록](https://backend-repository.tistory.com/196) <br/>
 [2025/06/17 - Spring Data JPA에서 새로운 Entity인지 판단하는 방법은 무엇일까요?](https://backend-repository.tistory.com/195) <br/>
 [2025/06/12 - Filter와 Interceptor의 차이점을 말해주세요.](https://backend-repository.tistory.com/194) <br/>
-[2025/06/04 - Spring MVC의 실행 흐름에 대해 설명해주세요.](https://backend-repository.tistory.com/193) <br/>
