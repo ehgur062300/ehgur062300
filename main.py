@@ -42,7 +42,6 @@ preREADME = """
       <p></p>
       ERD를 설계하고, MySQL 및 NoSQL 을 사용할 수 있습니다.
       <p></p>
-      현재 신입 백엔드 개발자로 구직중입니다.
     </b>
   </div>
 <br>
