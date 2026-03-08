@@ -49,9 +49,9 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/25 - REST란 무엇인가요?](https://backend-repository.tistory.com/200) <br/>
-[2025/08/08 - 동시성과 병렬성에 대해서 설명해주세요.](https://backend-repository.tistory.com/199) <br/>
-[2025/08/06 - 로드 밸런싱에 대해서 설명해주세요](https://backend-repository.tistory.com/198) <br/>
-[2025/06/29 - 트랜잭션 격리수준은 무엇인가요?](https://backend-repository.tistory.com/197) <br/>
-[2025/06/20 - 복합키 vs (대칭키 + UNIQUE 제약 조건) 회의록](https://backend-repository.tistory.com/196) <br/>
-[2025/06/17 - Spring Data JPA에서 새로운 Entity인지 판단하는 방법은 무엇일까요?](https://backend-repository.tistory.com/195) <br/>
+[2026/03/08 - [트러블 슈팅] 다중 인스턴스일 때 동시성 문제 해결](https://backend-repository.tistory.com/207) <br/>
+[2026/02/22 - Spring Cache 사용기록](https://backend-repository.tistory.com/206) <br/>
+[2026/02/01 - [트러블 슈팅] JPA UPDATE 벌크 연산 후 조회 안됨](https://backend-repository.tistory.com/205) <br/>
+[2026/01/31 - [트러블 슈팅] 재배포 없이 스케줄링 날짜 변경하기](https://backend-repository.tistory.com/204) <br/>
+[2026/01/11 - [트러블 슈팅] JWT 유효기간보다 빨리 만료되는 문제 해결](https://backend-repository.tistory.com/203) <br/>
+[2026/01/04 - Chained Transaction Manager deprecated](https://backend-repository.tistory.com/202) <br/>
